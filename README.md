@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="30%">
+  <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="52%">
   <br><br>
   <samp>
     Hello friend👋
@@ -11,6 +11,8 @@
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukinhas711&show_icons=true&theme=ocean_dark)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
