@@ -4,7 +4,7 @@
   <samp>
     Hello friend👋
     <br><br>
-    I am Lucas
+    I'm Lucas
     <br><br>
     I'm currently studying web development :grin:
     <br><br>
@@ -20,7 +20,7 @@
 <ul>
     <li>🌱 I’m currently learning JavaScript, ReactNative and ReactJS;</li>
     <li>👨🏽‍💻 I’m currently working on improving my techskill;</li>
-    <li>💬 Ask me about anything, I am happy to help;</li>
+    <li>💬 Ask me about anything, I'm happy to help;</li>
     <li>📫 How to reach me: <a href="mailto:lucas.ribeiro711@gmail.com">lucas.ribeiro711@gmail.com</a>;</li>
 </ul>
 Languages and Tools:
