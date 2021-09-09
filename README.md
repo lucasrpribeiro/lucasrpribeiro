@@ -12,6 +12,23 @@
   </samp>
 </p>
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  
+<ul>
+    <li>🌱 I’m currently learning JavaScript, ReactNative and ReactJS;</li>
+    <li>👨🏽‍💻 I’m currently working on improving my techskill;</li>
+    <li>💬 Ask me about anything, I am happy to help;</li>
+    <li>📫 How to reach me: <a href="mailto:lucas.ribeiro711@gmail.com">lucas.ribeiro711@gmail.com</a>;</li>
+</ul>
+Languages and Tools:
+  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!--
 **lukinhas711/lukinhas711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
