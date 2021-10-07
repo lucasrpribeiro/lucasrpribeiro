@@ -12,7 +12,11 @@
   </samp>
 </p>
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukinhas711&show_icons=true&theme=ocean_dark)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukinhas711&show_icons=true&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhas711&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
