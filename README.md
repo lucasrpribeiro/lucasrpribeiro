@@ -3,9 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukinhas711&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Frontend web developer, 
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔥 Frontend web developer
 
 - 👨‍💻 All of my projects are available at [lucasribeiro.dev.br](https://lucasribeiro.dev.br)
 
