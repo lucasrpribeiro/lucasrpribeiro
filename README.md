@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- ⚡ Fun fact **Nerd, Geek or Calisthenics athlete 🤷**
+- ⚡ Fun fact **Nerd, Geek or Calisthenics athlete? 🤷**
 
 <br><br>
 
