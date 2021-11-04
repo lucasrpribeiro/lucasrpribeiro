@@ -29,7 +29,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p style="display: flex;" align="left">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=lukinhas711&show_icons=true&theme=prussian" alt="lucas ribeiro's stats"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=lukinhas711&show_icons=true&theme=prussian" alt="lucas ribeiro's stats"/>
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhas711&layout=compact&langs_count=7&theme=prussian" alt="lucas ribeiro's most languages"/>
 </p>
 
