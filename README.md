@@ -46,7 +46,7 @@
 <a href="https://linkedin.com/in/lucasribeirolr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucasribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/lks.711" target="_blank">
+<a href="https://instagram.com/lucas.ribeiro.711" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lks.711-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <!-- <a href="https://youtube.com/" target="_blank">
