@@ -47,7 +47,7 @@
   <img align="center" src="https://img.shields.io/badge/-lucasribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/lucas.ribeiro.711" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lks.711-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-lucas.ribeiro.711-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <!-- <a href="https://youtube.com/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-user-05122A?style=flat&logo=youtube" alt="youtube"/>
