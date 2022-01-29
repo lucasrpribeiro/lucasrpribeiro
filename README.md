@@ -3,11 +3,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukinhas711&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Frontend web developer
+- 🔥 Desenvolvedor FrontEnd Junior 
 
-- 👨‍💻 All of my projects are available at [lucasribeiro.dev.br](https://lucasribeiro.dev.br)
+- 👨‍💻 Atualmente focado em aprender VueJs e seu ecossistema
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Vamos conversar sobre **JavaScript, HTML, CSS**
 
 - ⚡ Fun fact **Nerd, Geek or Calisthenics athlete? 🤷**
 
@@ -25,13 +25,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-
+<!-- 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p style="display: flex;" align="left">
   <img width="360em" src="https://github-readme-stats.vercel.app/api?username=lukinhas711&show_icons=true&theme=prussian" alt="lucas ribeiro's stats"/>
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhas711&layout=compact&langs_count=7&theme=prussian" alt="lucas ribeiro's most languages"/>
-</p>
+</p> -->
 
 
 <br><br>
