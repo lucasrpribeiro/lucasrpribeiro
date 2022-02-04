@@ -1,73 +1,36 @@
+# 👋 Olá!
 
-<img align="right" height="500em" src="https://pbs.twimg.com/media/FDR-rBhXIAEE3e3?format=jpg&name=medium"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Ribeiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukinhas711&color=blue" alt="Profile views" /> </p>
-
-- 🔥 Desenvolvedor FrontEnd Junior 
-
-- 👨‍💻 Atualmente focado em aprender VueJs e seu ecossistema
-
-- 💬 Vamos conversar sobre **JavaScript, HTML, CSS**
-
-- ⚡ Fun fact **Nerd, Geek or Calisthenics athlete? 🤷**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-<!-- 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p style="display: flex;" align="left">
-  <img width="360em" src="https://github-readme-stats.vercel.app/api?username=lukinhas711&show_icons=true&theme=prussian" alt="lucas ribeiro's stats"/>
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhas711&layout=compact&langs_count=7&theme=prussian" alt="lucas ribeiro's most languages"/>
-</p> -->
+Sou desenvolvedor Front End, atualmente vivendo no Brasil, atualmente estudo principalmente sobre **responsividade e performance**, porem, sempre que algum assunto me chama atenção eu dedico um tempo para tornalo parte do meu sinto de utilidades.
 
 
-<br><br>
+## Minha **main stack** é composta por:
 
-## 👨‍🚀 &nbsp;Social Links
+<div>
+  <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
+  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
+  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+  <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white />
+  <img src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D />
+</div>
 
-<p align="left" style="background:yellow">
+## Interesses 
 
-<a href="https://twitter.com/luskadev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luskadev-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/lucasribeirolr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucasribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/lucas.ribeiro.711" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucas.ribeiro.711-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<!-- <a href="https://youtube.com/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-user-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a> -->
-</p>
+<div>
+  <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
+  <img src=https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333333 />
+  <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
+  <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
+  <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
+</div>
+<br/>
 
-<!-- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=luskadev&layout=wide&show_reply=off&show_retweet=off" /> -->
+Se quiser conhecer um pouco mais sobre mim, aqui estão alguns links para contato
 
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:lucas.ribeiro711@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https:/https://www.linkedin.com/in/lucasribeirolr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>                                                                                                         
+</div>
