@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou desenvolvedor Front End, atualmente vivendo no Brasil, atualmente estudo principalmente sobre **responsividade e performance**, porem, sempre que algum assunto me chama atenção eu dedico um tempo para tornalo parte do meu sinto de utilidades.
+Sou desenvolvedor Front End, atualmente vivendo no Brasil, estudo principalmente sobre **responsividade e performance**, porem, sempre que algum assunto me chama atenção eu dedico um tempo para tornalo parte do meu sinto de utilidades.
 
 
 ## Minha **main stack** é composta por:
