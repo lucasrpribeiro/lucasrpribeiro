@@ -3,6 +3,11 @@
 Sou desenvolvedor Front End, atualmente vivendo no Brasil, estudo principalmente sobre **responsividade e performance**, porem, sempre que algum assunto me chama atenção eu dedico um tempo para tornalo parte do meu sinto de utilidades.
 
 
+<div align="center">
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lukinhas711&theme=vue-dark&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Lucas Ribeiro" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 ## Minha **main stack** é composta por:
 
 <div>
