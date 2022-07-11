@@ -12,35 +12,37 @@
 ## 👨🏻‍💻 Junior Web Developer
 
 ~~~javascript
-const lucas = {
-  name: 'Lucas',
-  lastName: 'Ribeiro',
-  nationality: 'Brazilian'
-  fullName: () => {
-    return `${this.name} ${this.lastName}`
-  },
-  OS: 'Pop_os!',
-  mainStack: [
-    'HTML5',
-    'CSS3',
-    'Javascript', 
-    'Vue',
-    'TailwindCSS',
-    'Astro'
-  ],
-  studyingTec: [
-    'Typescript',
-    'Nuxt3',
-    'Vue3',
-    'îles',
-    'ShellScript'
-  ],
-  interests: [
-    'Nodejs',
-    'SQL',
-    'MongoDB',
-    'React'
-  ],
+const lucas = () => {
+  return {
+    name: 'Lucas',
+    lastName: 'Ribeiro',
+    nationality: 'Brazilian'
+    get fullName() {
+      return `${this.name} ${this.lastName}`
+    },
+    OS: 'Pop_os!',
+    mainStack: [
+      'HTML5',
+      'CSS3',
+      'Javascript', 
+      'Vue',
+      'TailwindCSS',
+      'Astro'
+    ],
+    studyingTec: [
+      'Typescript',
+      'Nuxt3',
+      'Vue3',
+      'îles',
+      'ShellScript'
+    ],
+    interests: [
+      'Nodejs',
+      'SQL',
+      'MongoDB',
+      'React'
+    ],
+  }
 }
 ~~~
 
