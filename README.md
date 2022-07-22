@@ -10,7 +10,7 @@
 </div>
 
 ## 👨🏻‍💻 Junior Web Developer
-
+<!-- 
 ~~~javascript
 const lucas = () => {
   return {
@@ -45,7 +45,7 @@ const lucas = () => {
   }
 }
 ~~~
-
+-->
 
 <div align="center">
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lukinhas711&theme=gotham&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Lucas Ribeiro" />
