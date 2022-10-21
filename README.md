@@ -4,7 +4,7 @@ class Lucas {
   name: string;
   nationality: string;
   
-  constructor(name:string, nationality:string) {
+  constructor(name: string, nationality: string) {
     this.name = "Lucas Ribeiro";
     this.nationality = "Brazilian";
   }
