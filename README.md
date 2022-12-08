@@ -15,7 +15,7 @@ class Lucas {
   ];
   
   technologies: {
-    JavaScript:     ["Vanilla", "Vue", "Nuxt", "Astro"];
+    JavaScript:     ["Vanilla", "Vue", "Nuxt", "Astro", "node", "express"];
     Design:         ["TailwindCss", "Bootstrap"];
   };
 }
