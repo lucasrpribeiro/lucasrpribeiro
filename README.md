@@ -1,5 +1,5 @@
 
-```typescript
+```ts
 class Lucas {
   name: string;
   nationality: string;
