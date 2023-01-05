@@ -1,23 +1,34 @@
 
-```ts
-class Lucas {
-  name: string;
-  nationality: string;
-  
-  constructor(name: string, nationality: string) {
-    this.name = "Lucas Ribeiro";
-    this.nationality = "Brazilian";
-  }
-  
-  languages: Array<string> = [
+```js
+import { getProgrammer } from 'life'
+
+const lucas = getProgrammer('lucas')
+
+console.log(lucas)
+```
+
+```json
+{
+  "name": "Lucas Rineiro",
+  "nationality": "brazillian",
+  "languages": {
     "Portuguese",
-    "English",
-  ];
-  
-  technologies: {
-    JavaScript:     ["Vanilla", "Vue", "Nuxt", "Astro", "node", "express"];
-    Design:         ["TailwindCss", "Bootstrap"];
-  };
+    "English"
+  },
+  "technologies": {
+    "JavaScript": {
+      "Vanilla",
+      "Vue",
+      "Nuxt",
+      "Astro",
+      "node",
+      "express"
+    },
+    "css": {
+      "TailwindCss",
+      "Bootstrap"
+    }
+  }
 }
 ```
 
