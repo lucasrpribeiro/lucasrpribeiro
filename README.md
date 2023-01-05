@@ -9,7 +9,7 @@ console.log(lucas)
 
 ```json
 {
-  "name": "Lucas Rineiro",
+  "name": "Lucas Ribeiro",
   "nationality": "brazillian",
   "languages": {
     "Portuguese",
