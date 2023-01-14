@@ -43,5 +43,5 @@ console.log(lucas)
 
 <div align="center">
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lukinhas711&theme=gotham&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Lucas Ribeiro" />
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhas711&layout=compact&hide_border=true&theme=gotham" />
+  <img width="41%" height="auto" src="https://github-readme-stats-e9ja156fz-lukinhas711.vercel.app/api/top-langs/?username=lukinhas711&layout=compact&theme=gotham" />
 </div>
