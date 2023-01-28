@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Hi! I'm Lucas Ribeiro
-### JR Web developer, technology lover, I'm curious Nerd/Geek 🤓
+### JR Web developer, technology lover, curious, Nerd/Geek 🤓
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,linux)](https://skillicons.dev)
