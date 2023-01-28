@@ -5,7 +5,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,linux)](https://skillicons.dev)
 
 ## Studying
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,mongodb,docker,cloudflare)](https://skillicons.dev)
+
+## On my radar
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,dart,flutter)](https://skillicons.dev)
+
 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lukinhas711&theme=onedark&count_private=true&show_icons=true&include_all_commits=false&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
