@@ -1,36 +1,16 @@
+# 🧑🏻‍💻 Hi! I'm Lucas Ribeiro
 
-```js
-import { getProgrammer } from 'life'
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,linux)](https://skillicons.dev)
 
-const lucas = getProgrammer('lucas')
+## While studying
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,cloudflare)](https://skillicons.dev)
 
-console.log(lucas)
-```
-
-```json
-{
-  "name": "Lucas Ribeiro",
-  "nationality": "brazillian",
-  "languages": {
-    "Portuguese",
-    "English"
-  },
-  "technologies": {
-    "JavaScript": {
-      "Vanilla",
-      "Vue",
-      "Nuxt",
-      "Astro",
-      "node",
-      "express"
-    },
-    "css": {
-      "TailwindCss",
-      "Bootstrap"
-    }
-  }
-}
-```
+## Status
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lukinhas711&theme=onedark&count_private=true&show_icons=true&include_all_commits=false&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lukinhas711&theme=onedark&count_private=true&langs_count=5&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lukinhas711&theme=onedark&column=7&no-frame=true&row=1
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
   <a href="mailto:lucas.ribeiro711@gmail.com" target="_blank">
