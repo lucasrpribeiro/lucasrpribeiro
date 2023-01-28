@@ -3,7 +3,7 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,linux)](https://skillicons.dev)
 
-## While studying
+## Studying
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,cloudflare)](https://skillicons.dev)
 
 ## Status
