@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,linux)](https://skillicons.dev)
 
 ## Studying
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,mongodb,docker,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,prisma,nodejs,express,py,mongodb,docker,cloudflare)](https://skillicons.dev)
 
 ## On my radar
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,dart,flutter)](https://skillicons.dev)
