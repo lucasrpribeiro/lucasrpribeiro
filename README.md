@@ -2,7 +2,7 @@
 ### JR Web developer, technology lover, curious, Nerd/Geek 🤓
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,gitlab,linux)](https://skillicons.dev)
 
 ## Studying
 [![My Skills](https://skillicons.dev/icons?i=prisma,nodejs,express,py,mongodb,docker,cloudflare)](https://skillicons.dev)
