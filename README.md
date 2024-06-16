@@ -20,7 +20,7 @@ class Lucas extends Human {
   technologies: {
     JavaScript:     ["React", "Vue", "Nuxt"];
     APIs:           ["REST"];
-    DesignLibs:         ["TailwindCss", "Vuetify"];
+    DesignLibs:     ["TailwindCss", "Vuetify"];
   };
 }
 ```
