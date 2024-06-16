@@ -1,14 +1,29 @@
 # 🧑🏻‍💻 Hi! I'm Lucas Ribeiro
-### JR Web developer, technology lover, curious, Nerd/Geek 🤓
+### JR Software Developer, Nerd/Geek 🤓
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,astro,tailwindcss,sass,git,github,gitlab,linux)](https://skillicons.dev)
-
-## Studying
-[![My Skills](https://skillicons.dev/icons?i=py,mongodb,docker,cloudflare)](https://skillicons.dev)
-
-## On my radar
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,arduino,raspberrypi,dart,flutter,prisma,nodejs,express)](https://skillicons.dev)
+```typescript
+class Lucas extends Human {
+  name: string;
+  nationality: string;
+  
+  constructor() {
+    super();
+    this.name = "Lucas Ribeiro";
+    this.nationality = "Brazilian";
+  }
+  
+  languages: Array<string> = [
+    "Portuguese",
+    "English",
+  ];
+  
+  technologies: {
+    JavaScript:     ["React", "Vue", "Nuxt"];
+    APIs:           ["REST"];
+    DesignLibs:         ["TailwindCss", "Vuetify"];
+  };
+}
+```
 
 <div>
   <a href="mailto:lucas.ribeiro711@gmail.com" target="_blank">
