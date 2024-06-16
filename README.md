@@ -3,25 +3,26 @@
 
 ```typescript
 class Lucas extends Human {
-  name: string;
-  nationality: string;
+  name: string
+  nationality: string
   
   constructor() {
-    super();
-    this.name = "Lucas Ribeiro";
-    this.nationality = "Brazilian";
+    super()
+    this.name = "Lucas Ribeiro"
+    this.nationality = "Brazilian"
   }
   
   languages: Array<string> = [
     "Portuguese",
-    "English",
-  ];
+    "English"
+  ]
   
   technologies: {
-    JavaScript:     ["React", "Vue", "Nuxt"];
-    APIs:           ["REST"];
-    DesignLibs:     ["TailwindCss", "Vuetify"];
-  };
+    JavaScript:     ["React", "Vue", "Nuxt", "Vite", "Astro",]
+    APIs:           ["REST"]
+    DesignLibs:     ["TailwindCss", "Vuetify"]
+    Others:         ["Linux", "Git", "Gitlab", "Github", "Jira", "Figma"]
+  }
 }
 ```
 
