@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Hi! I'm Lucas Ribeiro
-### JR Software Developer, Nerd/Geek 🤓
+### Software Engineer, Nerd/Geek 🤓
 
 ```typescript
 class Lucas extends Human {
