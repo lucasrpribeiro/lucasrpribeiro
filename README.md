@@ -5,23 +5,33 @@
 class Lucas extends Human {
   name: string
   nationality: string
-  
+  role: string
+
   constructor() {
     super()
     this.name = "Lucas Ribeiro"
     this.nationality = "Brazilian"
+    this.role = "Fullstack Developer @ Saúde Trevo"
   }
-  
+
   languages: Array<string> = [
     "Portuguese",
     "English"
   ]
-  
+
   technologies: {
-    JavaScript:     ["React", "Vue", "Nuxt", "Vite", "Astro",]
-    APIs:           ["REST"]
-    DesignLibs:     ["TailwindCss", "Vuetify"]
-    Others:         ["Linux", "Git", "Gitlab", "Github", "Jira", "Figma"]
+    Languages:      ["TypeScript", "JavaScript", "Python"]
+    Frontend:       ["Vue 3", "Nuxt 4 (SSR)", "React", "Vite", "Astro", "Pinia"]
+    DesignLibs:     ["TailwindCss", "PrimeVue", "Vuetify", "shadcn-vue"]
+    Backend:        ["FastAPI", "SQLAlchemy", "Alembic", "Pydantic"]
+    APIs:           ["REST", "BFF Pattern", "Microservices", "Event-Driven (Kafka, Benthos)"]
+    Databases:      ["PostgreSQL", "MongoDB", "Valkey/Redis"]
+    AI:             ["LangChain", "LangSmith", "OpenAI"]
+    Testing:        ["Vitest", "Playwright", "Testing Library", "Pytest"]
+    Observability:  ["Sentry", "OpenTelemetry", "Prometheus"]
+    Integrations:   ["Twilio"]
+    Quality:        ["ESLint", "Ruff", "Zod", "Husky", "Commitlint"]
+    Others:         ["Linux", "Docker", "Git", "Gitlab CI", "Github", "Jira", "Azure DevOps", "Figma", "Claude Code"]
   }
 }
 ```
